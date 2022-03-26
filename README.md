@@ -1,3 +1,3 @@
-# better-dwm
+#DWM
 
-i finally added gaps for fuck sake
+my config of dwm with 'vanitygaps' patch and fancy zelda color scheme :D
